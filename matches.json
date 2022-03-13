@@ -8,13 +8,13 @@
     "Mandante": {
         "nome": "Brasil",
         "força" : 5,
-        imagem": "TODO"
+        "imagem": "TODO"
     },
     
     "Visitante": {
         "nome": "Argentina",
         "força" : 5,
-        imagem": "TODO"
+        "imagem": "TODO"
     }
   }
 ]
